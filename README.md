@@ -5,6 +5,8 @@ Hi-Five is an application that is designed to share music with your friends. In 
 
 This project is for CSEN 174, taken in Spring of 2024.
 
+(I forked the [original repo](https://github.com/CSEN-SCU/Hi-Five) so that it shows up under my Repositories)
+
 ## Demo (click)
 [![Hi-Five Demo](https://img.youtube.com/vi/IiGNO2e-aJk/0.jpg)](https://youtu.be/IiGNO2e-aJk "Hi-Five Demo")
 
